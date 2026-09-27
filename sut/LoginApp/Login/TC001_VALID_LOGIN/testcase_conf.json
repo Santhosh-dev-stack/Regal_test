@@ -1,0 +1,8 @@
+{
+    "base_url": "http://10.10.192.120:8085",
+    "login_path": "/login",
+    "valid_username": "testuser",
+    "valid_password": "test@123",
+    "invalid_password": "wrong_password",
+    "timeout": 10
+}
